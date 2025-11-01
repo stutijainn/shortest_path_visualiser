@@ -1,0 +1,14 @@
+{
+  "name": "shortest-path-visualiser",
+  "version": "1.0.0",
+  "description": "A minimal React-based shortest-path visualiser (frontend served by Node/Express)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
